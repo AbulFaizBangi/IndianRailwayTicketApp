@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="berth_choices_array">
+        <item>Upper Berth</item>
+        <item>Lower Berth</item>
+        <item>Sleeper Berth</item>
+    </string-array>
+    <string name="app_name">\n</string>
+</resources>
